@@ -5,7 +5,10 @@ date: January 27th, 2020
 ---
 
 During my first week of this learning module I took part in the Global Game Jam.  This is the fourth time I have participated in the Jam and have yet to have a bad experience.  Over the past years I have made friends through this event with like minded game development interests.  Needless to say I was looking forward to collaborating with them again.  Although this Game Jam is just for fun and networking I saw this as an opportunity to build a prototype for a game that I could use throughout this learning module.  
+
    The Theme for the Game Jam was “Repair”, and our team started brainstorming Ideas.  I was lucky enough to have my idea supported by the group so I started sketching up some concepts. What made this Jam so unique to me is that my concept sketches are almost exactly what the end project became.  I have posted both the initial concept and final game jam prototype below.  
    With this Prototype we began play testing on the final day of the Jam.  It was a success! Everyone that played the game enjoyed the experience as well as gave some useful feedback.
+   
 One comment that was made multiple times was that the gameplay was too tiring. With our efforts to create a game with urgency we may have short sighted the overall user experience.  Going forward I would like to make improvements to this area by creating time of rest throughout the game. Another piece of user feedback I found very interesting was when a fellow jamer stated “I don’t want to play the game because there is no reward at the end”. In light of this I would like to build on the ending of the game, giving the player more motivation to play and win. 
+
        I plan to use this user feedback to improve the game play throughout the first development sprint of the module.  
