@@ -4,9 +4,12 @@ title: Week 04 - Colour Theory - Refining the colour and lights
 date: Febuary 17, 2020
 --- 
 
-Next they turned to the business table. On the desk, among the neat array of papers, a large envelope was uppermost, and bore, in the doctor's hand, the name of Mr. Utterson. The lawyer unsealed it, and several enclosures fell to the floor. The first was a will, drawn in the same eccentric terms as the one which he had returned six months before, to serve as a testament in case of death and as a deed of gift in case of disappearance; but in place of the name of Edward Hyde, the lawyer, with indescribable amazement read the name of Gabriel John Utterson. He looked at Poole, and then back at the paper, and last of all at the dead malefactor stretched upon the carpet.
+During week 4 of this learning module I began by creating a short colour script to aid the overall narrative. I wanted to plan my colours quickly and chronologically before I moved from storyboards to conceptual layout designs. 
 
-> "My head goes round," he said. "He has been all these days in possession; he had no cause to like me; he must have raged to see himself displaced; and he has not destroyed this document."
-
-He caught up the next paper; it was a brief note in the doctor's hand and dated at the top. "O Poole!" the lawyer cried, "he was alive and here this day. He cannot have been disposed of in so short a space; he must be still alive, he must have fled! And then, why fled? and how? and in that case, can we venture to declare this suicide? O, we must be careful. I foresee that we may yet involve your master in some dire catastrophe."
-
+I also began research on a drawing program that would better suit my project. I decided to purchase a more professional program for my iPad, called ProCreate. It was recommended to me by a friend as well as very well reviewed on the Apple App store and quite inexpensive.  Although learning a new art program would take some time I was confident that it would help the production. 
+   With The colour script on my mind I decided to dive into lighting as well.  I dug through some white papers on Google Scholar and found a really interesting paper called “Dynamic LIghting for Tension in Games, By: Magy Seif El-Nasr ”  One particular quote that spoke to me was.
+>We aim to focus on the impact of simulated illumination on emotions and tension, thus making an argument for the role of lighting on gameplay and “flow.” (Seif El-Nasr, 2006).
+>“flow” defined as a mental state of total involvement in a task (Csikzentmihalyi, 1997).
+My colleague during the game jam had already worked with the lighting in Core Bore.  He programmed the broken panels to flash a red light while about to break off, as more and more panels break the ship become engulfed in red light.  The red glow of the lights creates an ominous sense of tension driving the player to work faster.  
+   Moving forward with development I plan to add to this lighting system.  One piece of user feedback I received was that it was difficult to see which platform the character is fixing.  To resolve this issue I would like the player character to illuminate the panel that it is about to fix making the position clear.  
+  In conclusion, colour and lighting will be at the forefront of my development in hopes to create a truly remarkable experience for the player. 
