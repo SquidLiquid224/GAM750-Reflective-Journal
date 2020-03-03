@@ -28,7 +28,7 @@ description:
 baseurl: "CoreBore-Blog" # the subpath of your site, e.g. /blog
 url: "" 
 twitter_username: SquidLiquid2
-github_username:  Squid_Liquid_
+github_username:  SquidLiquid224
 
 # Build settings
 theme: minima
