@@ -15,4 +15,4 @@ I plan to use this user feedback to improve the game play throughout the first d
 
 [Demo prototype of Core Bore](https://rockclaw.itch.io/core-bore)
 
-<img src="/CoreBore-Blog/_images/CB_Comparison.png" alt="Comparison" class="inline"/>
+<img src="/_images/CB_Comparison.png" alt="Comparison" class="inline"/>
