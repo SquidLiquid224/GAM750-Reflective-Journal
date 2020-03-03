@@ -13,6 +13,6 @@ One comment that was made multiple times was that the gameplay was too tiring. W
 
 I plan to use this user feedback to improve the game play throughout the first development sprint of the module.  
 
-<a href=“https://rockclaw.itch.io/core-bore”>Demo prototype of Core Bore.</a>
+[Demo prototype of Core Bore](https://rockclaw.itch.io/core-bore)
 
 <img src="/_images/CB_comparison.jpg" alt="hi" class="inline"/>
