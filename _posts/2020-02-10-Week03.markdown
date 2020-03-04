@@ -16,3 +16,5 @@ date: Febuary 10th, 2020
 
 [RT-Voice PRO](https://assetstore.unity.com/packages/tools/audio/rt-voice-pro-41068)
 
+<img src="../images/Thumbnail_FlowDiagram.png" alt="Comparison">
+
