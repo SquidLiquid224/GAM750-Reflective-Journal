@@ -12,7 +12,3 @@ date: Febuary 10th, 2020
  
    During my research this week I also looked into text-to-speech plugins for Unity.  Given the amount of lines in the dialog I might need an alternative to voice actors.  I found a Plugin called RT-voice that converts text to voice at run time.  After further research I found that this approach is used quite often in larger production and found an interesting paper on the subject.  As time permits I would still like to record a voice acted vocal track, I believe having a real human voice does add to the suspension of disbelief. 
 
-<details> 
-  <summary>Q1: What is the best Language in the World? </summary>
-   A1: JavaScript 
-</details>
