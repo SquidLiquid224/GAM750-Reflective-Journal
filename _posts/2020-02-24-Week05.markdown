@@ -12,6 +12,6 @@ To my surprise building a website on Github pages was not at all as streamlined 
 
 Well back to the topic of concept art.  Concept art has always been a passion of mine and having the chance to reconnect with my roots was wonderful.  I plan to conceptualize different planets and missions for Core Bore but first of all I need to get this game ready to upload to Steam, an endeavour I begin next week.   
  
-<img src="../images/CoreBore_CockpitSM.png" alt="Comparison">
+<img src="../images/CoreBore_CockpitSM.png" alt="CoreBore_Cockpit">
 
-<img src="../images/CoreBore_AleinRelicSM.png" alt="Comparison">
+<img src="../images/CoreBore_AleinRelicSM.png" alt="CoreBore_AleinRelic">
