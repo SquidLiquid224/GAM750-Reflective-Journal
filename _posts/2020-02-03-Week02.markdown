@@ -16,6 +16,8 @@ I was still very proud of the game and began conceptualizing a universe for this
 
 After that The Game Brief quickly grew into Character sketches and bios Game mechanic breakdowns and the beginning of a narrative. 
 
+ <embed src="../docs/Core_Bore_Script.pdf" width="800px" height="500px" />
+
 <details> 
   <summary>Core Bore: Narrative Script</summary>
 	
