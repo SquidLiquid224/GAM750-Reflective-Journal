@@ -18,7 +18,9 @@ After that The Game Brief quickly grew into Character sketches and bios Game mec
 
 <details> 
   <summary>Core Bore: Narrative Script</summary>
-   Intro Scene Script 
+	
+	
+Intro Scene Script 
 
 Ivan: Ahh what a day for some asteroid mining, looks like there is a big one just ahead. 
 
@@ -26,7 +28,7 @@ Ivan: Buckle in Winston! we’re making our approach.
 
 Winston: Ruff!
 
-The Rock Claw Drill ship lands on the asteroid 
+    The Rock Claw Drill ship lands on the asteroid 
 
 Ivan: This asteroid is giving off some very strange readings, it looks like it has a solid metallic core and it’s hot!
 
@@ -50,7 +52,7 @@ Ivan: Winston! Winston! Geez it’s dark in these caves, glad I have a tracker o
 
 Ivan: Ahhhh!
 
-Winston is growling at a massive relic in the shape of an Alien bug.
+    Winston is growling at a massive relic in the shape of an Alien bug.
 
 Ivan: No way.. what a find Winston! Look at the size of that thing. 
 
@@ -62,7 +64,7 @@ Ivan touches the relic and it lights up, a hologram is projected into the air.  
 
 Ivan: We need to stop this thing, Winston, or the planet’s doomed!
 
-Strange Alien-like sounds start chirping..
+    Strange Alien-like sounds start chirping..
 
 Winston: Bark Bark Bark Grrr!
 
@@ -74,19 +76,17 @@ Ivan: Let’s get this drilling rig moving, if we can bore down to the core of t
 
 Winston: Ruff!
 
-The scene transitions to the game scene, an exterior view of the Rock Claw. 
-
-
+    The scene transitions to the game scene, an exterior view of the Rock Claw. 
 
 In Game Scene Script
 
 Rock Claw: Good morning Ivan and Winston, all systems are operational. Core Bore has commenced. 
 
-The game begins...and the Rock Claw is drilling normally
+    The game begins...and the Rock Claw is drilling normally
 
 Ivan: Full speed ahead, Rock Claw, let’s move! 
 
-Screen shakes and an alarm sounds!
+    Screen shakes and an alarm sounds!
 
 Rock Claw: It looks like the thermal temperatures are much higher than we anticipated. My hull plating can take much more of this! 
 
@@ -102,17 +102,25 @@ Rock Claw: Great work! Keep those panels fastened!
 
 Winston: Ruff Ruff! (In an encouraging tone) 
 
+    As damage is taken to the hull the Rock Claw AI and Winston the will pop-up at varying points. These notifications will be activated. 
 
-As damage is taken to the hull the Rock Claw AI and Winston the will pop-up at varying points. These notifications will be activated. 
-
-At 25% damage
+    At 25% damage
+    
 Rock Claw: Please try to go faster. When those panels are gone.. they’re gone!
+
+    At 50% damage
 
 Rock Claw: Damage to the outer hull is 50%! Getting worried here!
 
+    At 75% damage
+
 Rock Claw: Hull Damage is at 75%! I can’t take much more of this!
 
+    At 90% damage
+
 Rock Claw: DAMAGE AT 90% PREPARING FOR ESCAPE PROTOCOL!
+
+    At 99% damage
 
 Rock Claw: DAMAGE 99% EJECTING ESCAPE POD!
 
@@ -133,7 +141,7 @@ Rock Claw: It appears to be an alien insect race resembling the relics.  They ha
 
 At this point the Bug enemies are introduced, regular damage is postponed for a short time to allow the player to learn the new game mechanic. 
 
-	At 75% progress
+    At 75% progress
 
 Rock Claw: 75% and holding! Keep fixing and keep those ugle bugs off me! 
 
@@ -141,14 +149,16 @@ Rock Claw: 85%! We’re almost there! Keep going!!
 
 Winston: Arf Arf!
 
+    At 75% progress
+
 Rock Claw: 95% We’ve almost made it to the core!
 
 
 Failure script:
 
-If 100% damaged is taken Failure script is called 
+    If 100% damaged is taken Failure script is called 
 
-	The Rock Claw begins to shake violently and implodes in on itself. The scene then transitions to a Game Over card with Ivan and Winston standing on the surface looking at the earth in the distance. The card also includes match stats and the option to replay the game. 
+The Rock Claw begins to shake violently and implodes in on itself. The scene then transitions to a Game Over card with Ivan and Winston standing on the surface looking at the earth in the distance. The card also includes match stats and the option to replay the game. 
  
 </details>
 
