@@ -140,7 +140,8 @@ Winston: Arf Arf! grrrr..
 
 Rock Claw: It appears to be an alien insect race resembling the relics.  They have razor sharp claws and are attacking the hull. Try to knock them off with your multi-tool.
 
-At this point the Bug enemies are introduced, regular damage is postponed for a short time to allow the player to learn the new game mechanic. 
+    At this point the Bug enemies are introduced, regular damage is postponed for a short time to allow the player to learn the new game mechanic. 
+
 
     At 75% progress
 
@@ -159,7 +160,8 @@ Failure script:
 
     If 100% damaged is taken Failure script is called 
 
-The Rock Claw begins to shake violently and implodes in on itself. The scene then transitions to a Game Over card with Ivan and Winston standing on the surface looking at the earth in the distance. The card also includes match stats and the option to replay the game. 
+
+    The Rock Claw begins to shake violently and implodes in on itself. The scene then transitions to a Game Over card with Ivan and Winston standing on the surface looking at the earth in the distance. The card also includes match stats and the option to replay the game. 
  
 </details>
 
