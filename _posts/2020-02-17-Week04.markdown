@@ -16,3 +16,5 @@ With the colour script on my mind I decided to dive into lighting as well.  I du
 My colleague during the game jam had already worked with the lighting in Core Bore.  He programmed the broken panels to flash a red light while about to break off, as more panels break the ship become engulfed in red light.  The red glow of the lights creates an ominous sense of tension driving the player to work faster.  
    Moving forward with development I plan to add to this lighting system.  One piece of user feedback I received was that it was difficult to see which platform the character is fixing.  To resolve this issue I would like the player character to illuminate the panel that it is about to fix making the position clear.  
   In conclusion, colour and lighting will be at the forefront of my development in hopes to create a truly remarkable experience for the player. 
+  
+  <img src="../images/colour_script.png" alt="Colour Script">
