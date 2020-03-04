@@ -18,7 +18,7 @@ After that The Game Brief quickly grew into Character sketches and bios Game mec
 
 <a href="../docs/Core_Bore_Script.pdf" class="image fit"></a>	
 
-<a href="username.github.io/CoreBore-Blog/docs/Core_Bore_Script.pdf" target="_blank">PDF.</a>
+<a href="../docs/Core_Bore_Script.pdf" target="_blank">PDF.</a>
 
 
 
