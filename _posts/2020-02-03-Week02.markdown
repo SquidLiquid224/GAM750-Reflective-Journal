@@ -20,7 +20,7 @@ After that The Game Brief quickly grew into Character sketches and bios Game mec
   <summary>Core Bore: Narrative Script</summary>
 	
 	
-Intro Scene Script 
+    Intro Scene Script 
 
 Ivan: Ahh what a day for some asteroid mining, looks like there is a big one just ahead. 
 
@@ -31,14 +31,13 @@ Winston: Ruff!
     The Rock Claw Drill ship lands on the asteroid 
 
 Ivan: This asteroid is giving off some very strange readings, it looks like it has a solid metallic core and it’s hot!
-
- Let’s get this drill going!
+Let’s get this drill going!
 
 Winston: Ruff ruff.. (looks questionable)
 
 Ivan: Got a bad feeling about this one eh, let’s go down to the surface and take some more readings.
 
-Ivan and Winston leave the Rock Claw and begin surveying the asteroid 
+    Ivan and Winston leave the Rock Claw and begin surveying the asteroid 
 
 Ivan: Wow, I’ve never seen an asteroid like this before! There are some very extensive cave systems. 
 
@@ -60,7 +59,7 @@ Ivan walks closer to take a look
 
 Ivan: These markings on the relic look like they tell a story 
 
-Ivan touches the relic and it lights up, a hologram is projected into the air.  It shows the asteroid trajectory towards earth, than an explosion followed by an army of Alien bugs overwhelming the planet.
+    Ivan touches the relic and it lights up, a hologram is projected into the air.  It shows the asteroid trajectory towards earth, than an explosion followed by an army of Alien bugs overwhelming the planet.
 
 Ivan: We need to stop this thing, Winston, or the planet’s doomed!
 
@@ -77,8 +76,9 @@ Ivan: Let’s get this drilling rig moving, if we can bore down to the core of t
 Winston: Ruff!
 
     The scene transitions to the game scene, an exterior view of the Rock Claw. 
+    
 
-In Game Scene Script
+    In Game Scene Script
 
 Rock Claw: Good morning Ivan and Winston, all systems are operational. Core Bore has commenced. 
 
@@ -103,6 +103,7 @@ Rock Claw: Great work! Keep those panels fastened!
 Winston: Ruff Ruff! (In an encouraging tone) 
 
     As damage is taken to the hull the Rock Claw AI and Winston the will pop-up at varying points. These notifications will be activated. 
+
 
     At 25% damage
     
