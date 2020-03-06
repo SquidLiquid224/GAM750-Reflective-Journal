@@ -25,7 +25,6 @@ date: March 03, 2020
 
 - Making the panel selection and breakdown rate more visually clear
 
-<img src="../images/Ivan.png" alt="Comparison">
+<img src="../images/characters.png" alt="Comparison">
 
-<img src="../images/Winston.png" alt="Comparison">
 
