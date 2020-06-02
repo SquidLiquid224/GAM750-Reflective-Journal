@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "The Core Bore Blog"
+title: "GAM750-Reflective-Journal"
 email: Jason.Teeuwissen@gmail.com
 description: 
   "This is the production blog for the indy game title Core Bore. The posts are a series of 
