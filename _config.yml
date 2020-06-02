@@ -31,7 +31,7 @@ twitter_username: SquidLiquid2
 github_username:  SquidLiquid224
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
 markdown: kramdown
 permalink: /articles/:title
 
