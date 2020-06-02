@@ -25,7 +25,7 @@ description:
   production experiments based on the curriculum of the Creative App Development Masters course at 
   Falmouth University - Individual Design and Development Project GAM720 19/20. My aim for this project is to ultimately realease the title to the Steam Store and
   further my Game Development reaserch."
-baseurl: "CoreBore-Blog" # the subpath of your site, e.g. /blog
+baseurl: "GAM750-Reflective-Journal" # the subpath of your site, e.g. /blog
 url: "" 
 twitter_username: SquidLiquid2
 github_username:  SquidLiquid224
