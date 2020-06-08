@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Week 06 - Character Design - Characters and some market research
-date: March 03, 2020
+title: Week 01 - ML-Agents Intro
+date: June 01, 2020
 --- 
 
  Week 6 was supposed to be aimed at character designs but because I had flushed those out weeks before (please see the below image for the designs). I decided to focus more on Market research.  Earlier in the week I signed up for a Steamworks account, after a lengthy tax interview and a payment of $140 my account is almost set up.. I am still trying to get some information from my bank to allow funds to be forwarded internationally. Anyways, it should be taken care of very soon and I will be able to begin working with the Steam API.  I plan to focus on a future sprint building the Steam Page and programming the Achievement system.  
