@@ -3,15 +3,15 @@ layout: post
 title: Week 01 - ML-Agents Intro
 date: June 01, 2020
 --- 
-    It is finally time to start my final thesis project for my Masters Degree of Creative App development at Falmouth university.  I’ve decided to begin my research and experimentation on Machine Learning and Artificial intelligence for use in games.  This topic has been an interest of mine since I discovered the ML-Agents package for the Unity game engine.  Over the past modules I have had lots of practice working with the engine and I believe I am at a point where I can comfortably experiment with the more advanced topic of Machine Learning.  You can read more about the ML-Agents toolkit here.  
-https://unity3d.com/machine-learning
+It is finally time to start my final thesis project for my Masters Degree of Creative App development at Falmouth university.  I’ve decided to begin my research and experimentation on Machine Learning and Artificial intelligence for use in games.  This topic has been an interest of mine since I discovered the ML-Agents package for the Unity game engine.  Over the past modules I have had lots of practice working with the engine and I believe I am at a point where I can comfortably experiment with the more advanced topic of Machine Learning.  You can read more about the ML-Agents toolkit here.  
+<a href="https://unity3d.com/machine-learning</a>
 
-I also found a short white paper called “Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network” You can give it a read hear:
- <a href="../docs/Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network.pdf" target="_blank">Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network</a>
+I also found a short white paper called <a href="../docs/Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network.pdf" target="_blank">Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network</a> You can give it a read if you follow the link. 
+ 
 
- It explained the topic of neuro layers in great detail and to be honest, most of the information went over my head.  I plan to read the paper again but for now felt the best course of action was to build a machine learning demo for myself, I believe that  learning is doing. 
+It explained the topic of neuro layers in great detail and to be honest, most of the information went over my head.  I plan to read the paper again but for now felt the best course of action was to build a machine learning demo for myself, I believe that  learning is doing. 
 
-    I’ve purchased and found a few ML-Agents tutorials on Unity Learn and on Udemy and thought it would be a great starting point.  Luckily Unity learn has been free for the covid-19 Pandemic and I have until the 20th of this month to finish the tutorial series 
+I’ve purchased and found a few ML-Agents tutorials on Unity Learn and on Udemy and thought it would be a great starting point.  Luckily Unity learn has been free for the covid-19 Pandemic and I have until the 20th of this month to finish the tutorial series 
 
 https://www.udemy.com/course/artificial-intelligence-machine-learning-unity3d
 https://learn.unity.com/project/course-overview?courseId=5e470160edbc2a15578b13d7
