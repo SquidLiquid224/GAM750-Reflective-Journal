@@ -21,10 +21,7 @@
 title: "GAM750-Reflective-Journal"
 email: Jason.Teeuwissen@gmail.com
 description: 
-  "This is the production blog for the indy game title Core Bore. The posts are a series of 
-  production experiments based on the curriculum of the Creative App Development Masters course at 
-  Falmouth University - Individual Design and Development Project GAM720 19/20. My aim for this project is to ultimately realease the title to the Steam Store and
-  further my Game Development reaserch."
+  "This is my GAM750-Reflective-Journal for my final thesis project in the Masters of Creative App Development at Falmouth University."
 baseurl: "GAM750-Reflective-Journal" # the subpath of your site, e.g. /blog
 url: "" 
 twitter_username: SquidLiquid2
