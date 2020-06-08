@@ -13,11 +13,11 @@ It explained the topic of neuro layers in great detail and to be honest, most of
 
 I’ve purchased and found a few ML-Agents tutorials on Unity Learn and on Udemy and thought it would be a great starting point.  Luckily Unity learn has been free for the covid-19 Pandemic and I have until the 20th of this month to finish the tutorial series 
 
-[Artificial Intelligence & Machine Learning with Unity3D](https://www.udemy.com/course/artificial-intelligence-machine-learning-unity3d)
-[ML-Agents: Hummingbirds](https://learn.unity.com/project/course-overview?courseId=5e470160edbc2a15578b13d7)
-[ML-Agents: Penguins](https://learn.unity.com/project/ml-agents-penguins)
+[Artificial Intelligence & Machine Learning with Unity3D](https://www.udemy.com/course/artificial-intelligence-machine-learning-unity3d)<br />
+[ML-Agents: Hummingbirds](https://learn.unity.com/project/course-overview?courseId=5e470160edbc2a15578b13d7)<br />
+[ML-Agents: Penguins](https://learn.unity.com/project/ml-agents-penguins)<br />
 
-Another resource I found that was pretty informative and funny was this Youtube series. 
+Another resource I found that was pretty informative and funny was this Youtube series.<br /> 
 [WRITING MY FIRST MACHINE LEARNING GAME!](https://www.youtube.com/watch?v=ZX2Hyu5WoFg&list=PLVOwmfGKAoEIjwcOyw52XbNCtHpBC4DkA&index=3&t=0s)
 
 With this wealth of knowledge at my fingertips I’m positive I can have a Neural Network up and running with Unity ML-Agents in no time.  Now all I need to do is find a direction for my project.. 
