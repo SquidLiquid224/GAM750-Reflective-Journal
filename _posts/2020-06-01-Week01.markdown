@@ -20,9 +20,9 @@ I’ve purchased and found a few ML-Agents tutorials on Unity Learn and on Udemy
 Another resource I found that was pretty informative and funny was this Youtube series.<br> 
 [WRITING MY FIRST MACHINE LEARNING GAME!](https://www.youtube.com/watch?v=ZX2Hyu5WoFg&list=PLVOwmfGKAoEIjwcOyw52XbNCtHpBC4DkA&index=3&t=0s)
 
-With this wealth of knowledge at my fingertips I’m positive I can have a Neural Network up and running with Unity ML-Agents in no time.  Now all I need to do is find a direction for my project.. I did some testing with the demo ML-Agnets scene in Unity.  It took some time to get the installaion to work, you really need to be carful of what Python version you have installed and setting up a virtual environment can be tricky.  There is also an installation for Tensorflow which is an open sourse machine learning platform, I wasn't aware that Unity was using that platform.  Here is the link if you would like to check it out.<br>
+ I did some testing with the demo ML-Agnets scene in Unity.  It took some time to get the installaion to work, you really need to be carful of what Python version you have installed and setting up a virtual environment can be tricky.  There is also an installation for Tensorflow which is an open sourse machine learning platform, I wasn't aware that Unity was using that platform.  Here is the link if you would like to check it out.<br>
 [Tensorflow](https://www.tensorflow.org/)<br>
-I also put together a quick video of the ML-Agents in action, you can check it out here 
+I also put together a quick video of the ML-Agents in action, you can check it out here<br> 
 [ML-Agents Project Update](https://youtu.be/DS_-UqyK_go)<br>
 <br>
 Thanks for reading!
