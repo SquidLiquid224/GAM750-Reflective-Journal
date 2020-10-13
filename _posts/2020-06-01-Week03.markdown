@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 02 - Making Hummingbirds
+title: Week 03 - PANDEMIC DUCK: the rogue survival game
 date: June 29, 2020
 --- 
 
