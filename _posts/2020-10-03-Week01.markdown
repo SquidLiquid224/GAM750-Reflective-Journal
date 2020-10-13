@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 01 - DUCK RUNNER the endless runner
+title: Game01 - DUCK RUNNER the endless runner
 date: Sept 30, 2020
 --- 
 
