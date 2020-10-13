@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game03 - PANDEMIC DUCK: the rogue survival game
+title: Game03 - PANDEMIC DUCK the rogue survival game
 date: Sept 28, 2020
 --- 
 

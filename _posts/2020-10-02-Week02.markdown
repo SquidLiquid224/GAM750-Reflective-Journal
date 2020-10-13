@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game02 - CRYPTO DUCK: the incremental clicker
+title: Game02 - CRYPTO DUCK the incremental clicker
 date: Sept 29, 2020
 --- 
 
