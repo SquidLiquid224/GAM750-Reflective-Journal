@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 03 - PANDEMIC DUCK: the rogue survival game
-date: June 29, 2020
+date: Sept 28, 2020
 --- 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 01 - DUCK RUNNER the endless runner
-date: June 30, 2020
+date: Sept 30, 2020
 --- 
 
 https://squidliquid224.itch.io/duck-runner?secret=FrHcfpWNsrENGPngEzPgDO3Pio

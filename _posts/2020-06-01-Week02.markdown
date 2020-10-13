@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 02 - CRYPTO DUCK: the incremental clicker
-date: June 29, 2020
+date: Sept 29, 2020
 --- 
 
 https://squidliquid224.itch.io/cryptoduck-clicker?secret=5IdxmX9nqXRV29ftTYJhHA75I8
