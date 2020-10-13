@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 02 - CRYPTO DUCK
+title: Week 02 - CRYPTO DUCK: the incremental clicker
 date: June 29, 2020
 --- 
 
