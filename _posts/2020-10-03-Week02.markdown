@@ -4,4 +4,6 @@ title: Game01 - DUCK RUNNER the endless runner
 date: Sept 30, 2020
 --- 
 
-https://squidliquid224.itch.io/duck-runner?secret=FrHcfpWNsrENGPngEzPgDO3Pio
+[DUCKRUNNER DEMO] (https://squidliquid224.itch.io/duck-runner?secret=FrHcfpWNsrENGPngEzPgDO3Pio)
+
+<img src="../images/duck_runner.png" alt="DUCKRUNNER">

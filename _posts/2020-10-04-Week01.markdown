@@ -4,3 +4,4 @@ title: ThePlan - Ducks and Facebook ads
 date: Sept 31, 2020
 --- 
 
+<img src="../images/logo.jpg" alt="Creative Games Logo">
