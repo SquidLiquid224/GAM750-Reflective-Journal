@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TheUnityGameJam - Wizard Teamwork 
+title: UnityGameJam - Create With Code  
 date: Sept 27, 2020
 --- 
 
