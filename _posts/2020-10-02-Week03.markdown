@@ -10,10 +10,16 @@ date: Sept 29, 2020
 
 Game Synopsis  
   
+Crypto Duck Clicker is a Casual Incremental Clicker game.  The sole object of the game is to make as much Bilcoin as you can. To earn your initial coin you have to click the mine button. Once you have enough coin you will be able to purchase computers to do the clicking for you.   
+   
 Research and Development  
-
+  
 http://www.cowclicker.com/  
 https://www.decisionproblem.com/paperclips/index2.html  
 https://www.newyorker.com/culture/culture-desk/the-unexpected-philosophical-depths-of-the-clicker-game-universal-paperclips?irclickid=V%3AUzW-0M-xyLW1twUx0Mo3b2UkE0cG0HXzCs040&irgwc=1&source=affiliate_impactpmx_12f6tote_desktop_adgoal%20GmbH&utm_source=impact-affiliate&utm_medium=123201&utm_campaign=impact&utm_content=Online%20Tracking%20Link&utm_brand=tny     
   
+Future inprovements  
+inclued having the total number of owned computers be the amount that is mined when clicking the mine button  
+Having a Bilcoin chart to display the value of the coin, having the price drop would be interesting and would require a computer selling feature.  Possibly a simple Sell Computers button.
+
 Critical Reflection  

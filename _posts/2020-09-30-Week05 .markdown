@@ -4,6 +4,12 @@ title: UnityGameJam - Create With Code
 date: Sept 27, 2020
 --- 
 
-
 <img src="../images/Create_with_code.jpg" alt="Create With Code">  
-
+  
+Game Synopsis   
+  
+Research and Development  
+  
+Critical Reflection  
+  
+  
