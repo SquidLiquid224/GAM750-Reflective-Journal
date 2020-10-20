@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TheUnityGameJam - Wizard Teamwork 
-date: Oct 01, 2020
+date: Sept 27, 2020
 --- 
 
 
