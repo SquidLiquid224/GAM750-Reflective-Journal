@@ -6,10 +6,23 @@ date: Sept 30, 2020
 
 [DUCKRUNNER DEMO](https://squidliquid224.itch.io/duck-runner?secret=FrHcfpWNsrENGPngEzPgDO3Pio)
 
-<img src="../images/duck_runner.png" alt="DUCKRUNNER">
-
-Game Synopsis  
+<img src="../images/duck_runner.png" alt="DUCKRUNNER">  
+  
+  
+Game Synopsis   
+   
+Duck runner is a Hyper Casual game with a up beat sound track.  Dodge as many walls as you can and claim the high-score!
   
 Research and Development  
   
+My reseach for this game begain on Udemy I wanted a straight forward game project to get my create energy flowing.  I chose a simple course that walks you through an Endless Runner game from start to finsh using the Unity game engine.  I was able to create the prototype within an evening and began customzing.   
+During an earilier duck game I produced I created the perfect running duck animation. I decided to use the asset as well as a music track I had purchsed for use during my game streams.  With some tranparencies applied to the objects and a nice atmospheric fog I had a custom prototype to work with. 
+Now the qestion was, where to go from here.  
+I need multiple levels and a game that increases difficulty. I found a white paper that explains Procedural Level balacing in Runner Rames that seemed interesting.  Also, having used a sound track built with game loops allow for some very interesting sound design work. 
+  
+R. J. V. d. Medeiros and T. F. V. d. Medeiros, "Procedural Level Balancing in Runner Games," 2014 Brazilian Symposium on Computer Games and Digital Entertainment, Porto Alegre, 2014, pp. 109-114, doi: 10.1109/SBGAMES.2014.30.  
+  
+  
 Critical Reflection  
+  
+In relfection to the prototype as far, I feel it lacks originality.  As I move forward with new prototypes I plan to be moretopical and create more layers of interest in the design.  I hope that through the next project I will come up with an idea to enhance Duck Runner.  
