@@ -9,8 +9,10 @@ date: Sept 28, 2020
 
 <img src="../images/PandemicDuck_GameStill.jpg" alt="In-Game">  
   
-Game Synopsis  
+Game Synopsis   
   
+Pandemic Duck is a Rogue-life Survical game. The object is to make it across the game board while collecting supplies and ad avoiding the viruses.  Each move you make decreases your supplies and if you are hit by a virus your suplies decrease as well. When you successfully make it to the Pond you progress one day, as each day passes you also lose supplies. The object of the game is to survive as many days as possible. When you run out of supplies the game is over. 
+
 Research and Development  
 
 http://bogost.com/games/persuasive_games_1/
