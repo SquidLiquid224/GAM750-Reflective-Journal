@@ -5,7 +5,9 @@ date: Sept 28, 2020
 --- 
 
 
-<img src="../images/pandemic_duck_concept.png" alt="PANDEMIC DUCK">  
+<img src="../images/pandemic_duck_concept.png" alt="Concept">  
+
+<img src="../images/PandemicDuck_GameStill.jpg" alt="In-Game">  
   
 Game Synopsis  
   
