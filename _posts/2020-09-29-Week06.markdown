@@ -4,7 +4,7 @@ title: Game04 - OG SPACE INVADERS the Advert Game
 date: Sept 26, 2020
 --- 
 
-<img src="../images/Create_with_code.jpg" alt="Create With Code">  
+<img src="../images/concept.png" alt="Create With Code">  
   
 Game Synopsis   
   
