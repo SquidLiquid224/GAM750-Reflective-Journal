@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game04 - OG SPACE INVADER The Advert Game  
+title: Game04 - OG SPACE INVADER the Advert Game  
 date: Sept 26, 2020
 --- 
 
