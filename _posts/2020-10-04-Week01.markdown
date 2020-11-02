@@ -55,6 +55,9 @@ Product Title: Original Games
   
 Value Proposition:  
 
+https://www.gamasutra.com/blogs/ScottJonSiegel/20170328/294688/Value_Propositions_in_FreetoPlay_Games.php
+
+https://gamingbolt.com/game-pass-is-a-great-value-proposition-for-indie-devs-says-microsoft-exec
 An outlet for indy microgames
 
 Original Games will be a hub for experimental games with social and philosofical context.  The true value of this is building a sense of commuinity for like-minded game developers to exchange ideas and colabourate.  I also hope that this will be a place where people can network and find oppotunites in the game development community. 
@@ -72,35 +75,37 @@ Audience:
      
 	
 #### **Got-To-Market (GTM) Strategy**  
-
-    Business Plan  
-    Projections  
-    Product Strategy  
-    Channel Strategy  
-    Marketing Strategy  
-    Customer Experience  
-    Technical Requirements  
-    Evaluation  
-    Timeline and Execution  
+   
+https://software.intel.com/content/www/us/en/develop/articles/get-ready-get-noticed-get-big-a-practical-guide-to-marketing-your-indie-game.html?sf180884545=1   
+   
+Business Plan  
+Projections  
+Product Strategy  
+Channel Strategy  
+Marketing Strategy  
+Customer Experience  
+Technical Requirements  
+Evaluation  
+Timeline and Execution  
 
    
 
 #### **Launch**  
-
-    Beta Launch  
-    Press release  
-    Social media  
-    Analytics  
-    Feedback Channels  
-    Bug Tracking  
-
+   
+Beta Launch  
+Press release  
+Social media  
+Analytics  
+Feedback Channels  
+Bug Tracking  
+   
    
 
 #### **Post Launch**  
-
-    Maintenance  
-    Future Development  
-    Continued User Engagement  
+    
+Maintenance  
+Future Development  
+Continued User Engagement    
 
 
 Appendix   
