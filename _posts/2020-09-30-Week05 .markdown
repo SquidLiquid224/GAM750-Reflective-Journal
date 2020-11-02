@@ -3,7 +3,7 @@ layout: post
 title: UnityGameJam - Create With Code  
 date: Sept 27, 2020
 --- 
-
+[SECRETS OF MONSTER ISLE DEMO](https://squidliquid224.itch.io/mmtest)  
 <img src="../images/Create_with_code.jpg" alt="Create With Code">  
   
 Game Synopsis   
@@ -11,5 +11,12 @@ Game Synopsis
 Research and Development  
   
 Critical Reflection  
+  
+  AUDIENCE FEEDBACK based on theory, underlaying mesages 
+  thoughts and feels of the game 
+  socialogical and phiosophical 
+  how it resinates 
+
+  indy hub 
   
   

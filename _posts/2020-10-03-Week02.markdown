@@ -20,8 +20,12 @@ During an earilier duck game I produced I created the perfect running duck anima
 Now the qestion was, where to go from here.  
 I need multiple levels and a game that increases difficulty. I found a white paper that explains Procedural Level balacing in Runner Rames that seemed interesting.  Also, having used a sound track built with game loops allow for some very interesting sound design work. 
   
-R. J. V. d. Medeiros and T. F. V. d. Medeiros, "Procedural Level Balancing in Runner Games," 2014 Brazilian Symposium on Computer Games and Digital Entertainment, Porto Alegre, 2014, pp. 109-114, doi: 10.1109/SBGAMES.2014.30.  
-  
+R. J. V. d. Medeiros and T. F. V. d. Medeiros, "Procedural Level Balancing in Runner Games," 2014 Brazilian Symposium on Computer Games and Digital Entertainment, Porto Alegre, 2014, pp. 109-114, doi: 10.1109/SBGAMES.2014.30. 
+
+retro CRT filter 
+https://assetstore.unity.com/?q=crt&orderBy=1
+
+
   
 Critical Reflection  
   
