@@ -33,10 +33,10 @@ As I reseached Playable Ads further I discovered a business model that relativly
 [Gameify](https://www.gamify.com)   
 <img src="../images/gamify.jpg" alt="Gamify">  
     
-Although my idea for Creative Games is much different than an Advert-Game company it might be a lucrative direction to picvot to. 
+Although my idea for Creative Games is much different than an Advert-Game company it might be a lucrative direction to pivot to. 
 
 
-### **Task 2: Audience Research**  
+### **Audience Research**  
    
 I began my audience reseach by implementing a Facebook Ad campaign for my Original Games page's first post.  it was a demo called Duck Runner my first prototype of this learning module.  below are some statistics that I captured from that initial ad that took place over the course of 5 days.  
   
