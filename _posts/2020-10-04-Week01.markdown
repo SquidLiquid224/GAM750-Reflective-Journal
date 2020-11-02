@@ -6,24 +6,27 @@ date: Sept 31, 2020
 
 <img src="../images/Banner.jpg" alt="Creative Games Logo">
 
-Preliminary Work  
+### **Preliminary Work**  
 
 I began my reseach for the dissemication plan through Facebook and testing the marketing aspects of that platform. I found that creating ad campaigns are quick and easy to create at a resonable price.  After my initial testing on a Game Video Creator account I built a company page called Original Games and began an test ad campaign to find my audience.  I also found some very useful resources on the Business At [Facebook Learn](https://www.facebook.com/business/learn).  By going through this resourse I found some really good take-aways and was inspired to set up a Facebook Organization Page.  I needed to establish a presence as soon as possible and conduct more ad reseach so when my MVP is complete my ads will be effective and taget the right audience. i started the page [Original Games](https://www.facebook.com/Original-Games-104498631430111).  With this created I began my research on other competitors that are also leveraging the Facebook advertisement platform. 
 
-Competitor Case Studies
+### **Competitor Case Studies**
 
-IMy first two competitor case studies on successfull Facebook ad campaigns.  As my games will be short web based games and share many qualities to the following examples.  I have also chosen to use the facebook ad platform as my main outlet for marketing and publicity.  
+My first two competitor case studies on successfull Facebook ad campaigns.  As my games will be short web based games and share many qualities to the following examples.  I have also chosen to use the facebook ad platform as my main outlet for marketing and publicity.  
   
-Case Study 01:  
+#### **Facebook Ads Case Studies**  
 [FoxNext Games](https://www.facebook.com/business/success/foxnext-games)
 Carosel ads   
    
-Case Study 02:  
 [Kakao Games](https://www.facebook.com/business/success/kakao-games-wisebirds)
 Playable ads   
    
 As I reseached Playable Ads further I discovered a business model that relativly new and mirrored some of the characteristics of my own products.  It was game based entirly around advertisments, althought the concept of making a game an advertisment is nothing new, for instance the [Cool Spot game](https://en.wikipedia.org/wiki/Cool_Spot) that was relased in 1993 by Virgin Game USA was just a big ad for Z-up.  However, the ease of making Advertisment games has been greatly reduced.  Two examples of companies that specialize in these Advert Games are:
 
+#### **Advert-Game Case Studies**
+[Gameify](https://www.gamify.com)
+    
+[Branded Mini Games](https://brandedminigames.com/)
 
 
 Task 2: Audience Research  
