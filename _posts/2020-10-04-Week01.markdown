@@ -44,11 +44,8 @@ I began my audience reseach by implementing a Facebook Ad campaign for my Origin
    
 
 ### **Dissemination Report** 
-
-The dissemination plan must be no longer than 15 pages long (excluding references and appendix). The structure of the dissemination plan will differ depending on the product, audience and target market amongst other things. Here is a suggested structure for a tradition app. It is up to you whether to add or remove sections.  
-
- 
-
+    
+    
 #### **Product Overview**  
 
 Product Title: Original Games  
