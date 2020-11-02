@@ -49,17 +49,29 @@ The dissemination plan must be no longer than 15 pages long (excluding reference
 
  
 
-Product Overview  
+#### **Product Overview**  
 
-    Product Title  
-    Value Proposition  
-    Summary  
-        Description  
-        Features  
-        Technical information  
-    Audience  
+Product Title: Original Games  
+  
+Value Proposition:  
+
+An outlet for indy microgames
+
+Original Games will be a hub for experimental games with social and philosofical context.  The true value of this is building a sense of commuinity for like-minded game developers to exchange ideas and colabourate.  I also hope that this will be a place where people can network and find oppotunites in the game development community. 
+It will also act as a living portfolio of my own work where I can post publically and express my opitions though the art form of games.  
 	
-Got-To-Market (GTM) Strategy  
+Summary:   
+   
+Description:   
+   
+Features:   
+    
+Technical information:  
+     
+Audience:   
+     
+	
+#### **Got-To-Market (GTM) Strategy**  
 
     Business Plan  
     Projections  
@@ -73,7 +85,7 @@ Got-To-Market (GTM) Strategy
 
    
 
-Launch  
+#### **Launch**  
 
     Beta Launch  
     Press release  
@@ -84,7 +96,7 @@ Launch
 
    
 
-Post Launch  
+#### **Post Launch**  
 
     Maintenance  
     Future Development  
