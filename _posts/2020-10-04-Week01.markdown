@@ -10,7 +10,7 @@ date: Sept 31, 2020
 
 I began my reseach for the dissemication plan through Facebook and testing the marketing aspects of that platform. I found that creating ad campaigns are quick and easy to create at a resonable price.  After my initial testing on a Game Video Creator account I built a company page called Original Games and began an test ad campaign to find my audience.  I also found some very useful resources on the Business At [Facebook Learn](https://www.facebook.com/business/learn).  By going through this resourse I found some really good take-aways and was inspired to set up a Facebook Organization Page.  I needed to establish a presence as soon as possible and conduct more ad reseach so when my MVP is complete my ads will be effective and taget the right audience. i started the page [Original Games](https://www.facebook.com/Original-Games-104498631430111).  With this created I began my research on other competitors that are also leveraging the Facebook advertisement platform. 
 
-### **Competitor Case Studies**
+#### **Competitor Case Studies**
 
 I chose to do my competitor case studies based on successfull Facebook ad campaigns.  As my games will be short web based games and share many qualities to the following examples and I have also chosen to use the facebook ad platform as my main outlet for marketing and publicity.  
    
@@ -36,14 +36,14 @@ As I reseached Playable Ads further I discovered a business model that relativly
 Although my idea for Creative Games is much different than an Advert-Game company it might be a lucrative direction to pivot to. 
 
 
-### **Audience Research**  
+#### **Audience Research**  
    
 I began my audience reseach by implementing a Facebook Ad campaign for my Original Games page's first post.  it was a demo called Duck Runner my first prototype of this learning module.  below are some statistics that I captured from that initial ad that took place over the course of 5 days.  
   
 <img src="../images/audience_stats.jpg" alt="Audience Stats">  
    
 
-Dissemination Report:  
+### **Dissemination Report** 
 
 The dissemination plan must be no longer than 15 pages long (excluding references and appendix). The structure of the dissemination plan will differ depending on the product, audience and target market amongst other things. Here is a suggested structure for a tradition app. It is up to you whether to add or remove sections.  
 
