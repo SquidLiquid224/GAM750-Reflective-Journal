@@ -51,19 +51,16 @@ I began my audience reseach by implementing a Facebook Ad campaign for my Origin
 Product Title: Original Games  
   
 Value Proposition:  
-Original Games is specifically designed and optimized for people ages 18 to 45 who are experiencing bordom, high stress and lack of interaction. Our games, advertisements and networking platform is leading thought provoking entertainment that helps decreased stress levels while providing networking opportuites. Unlike competitors, our products/services offers an original social and philisophical commentary you won't forget. 
+Original Games is specifically designed and optimized for people ages 18 to 45 who are experiencing bordom, high stress and lack of interaction. Our games, advertisements and networking platform is leading thought provoking entertainment that helps decreased stress levels while providing networking opportuites for like-minded indie game developers. Unlike competitors, our products/services offer an original social and philisophical commentary you won't forget. 
 
 https://www.gamasutra.com/blogs/ScottJonSiegel/20170328/294688/Value_Propositions_in_FreetoPlay_Games.php
 
 https://gamingbolt.com/game-pass-is-a-great-value-proposition-for-indie-devs-says-microsoft-exec
-An outlet for indy microgames   
-The true value of this is building a sense of commuinity for like-minded game developers to exchange ideas and colabourate.  I also hope that this will be a    placewhere people can network and find oppotunites in the game development community.    
-	
+
+https://neuralimpact.ca/valueproposition/
+
 Summary:   
-Original Games will be a hub for experimental games with social and philosofical context.    
-It will also act as a living portfolio of my own work where I can post publically and express my opitions though the art form of games.    
-   
-Description:   
+With independance and the freedom to develop creative content Original Games focuses on innovation and experimental gameplay.  Our goal is to explore the medium of games and produce unique and throught provoking experiences.   
    
 Features:   
     
