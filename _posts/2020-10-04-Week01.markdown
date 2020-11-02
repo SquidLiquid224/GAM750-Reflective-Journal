@@ -12,9 +12,8 @@ I began my reseach for the dissemication plan through Facebook and testing the m
 
 ### **Competitor Case Studies**
 
-My first two competitor case studies on successfull Facebook ad campaigns.  As my games will be short web based games and share many qualities to the following examples.  I have also chosen to use the facebook ad platform as my main outlet for marketing and publicity.  
-  
-#### **Facebook Ads Case Studies**  
+I chose to do my competitor case studies based on successfull Facebook ad campaigns.  As my games will be short web based games and share many qualities to the following examples and I have also chosen to use the facebook ad platform as my main outlet for marketing and publicity.  
+   
 [FoxNext Games](https://www.facebook.com/business/success/foxnext-games)
    
 <img src="../images/strike_force_ad.jpg" alt="Strike Force">   
@@ -24,16 +23,17 @@ FoxNext Games was my first case study, they put together some really effective F
 "The interactivity helped us get people excited about the game and contributed to our goal of better return on ad spend."  
   
 [Kakao Games](https://www.facebook.com/business/success/kakao-games-wisebirds)
-Playable ads   
+
 <img src="../images/kakaoGames.png" alt="Kakao Games">
    
-As I reseached Playable Ads further I discovered a business model that relativly new and mirrored some of the characteristics of my own products.  It was game based entirly around advertisments, althought the concept of making a game an advertisment is nothing new, for instance the [Cool Spot game](https://en.wikipedia.org/wiki/Cool_Spot) that was relased in 1993 by Virgin Game USA was just a big ad for Z-up.  However, the ease of making Advertisment games has been greatly reduced.  Two examples of companies that specialize in these Advert Games are:
+My second case study was Kakao games, what struck my interest in this company ws its use of playable ads on Facebook.  Although seemingly the most difficult ad to create this concept of a playable ad would be the most engaging model. According to their success story they ahd an 80% lower cost per click with playable ad (compared to other ads in the same campaign).  These stats are enough to convice me that playable ads are a good route for a successfull ad campaign.   
+  
+As I reseached Playable Ads further I discovered a business model that relativly new and mirrored some of the characteristics of my own products.  It was game based entirly around advertisments, althought the concept of making a game an advertisment is nothing new, for instance the [Cool Spot game](https://en.wikipedia.org/wiki/Cool_Spot) that was relased in 1993 by Virgin Game USA was just a big ad for Z-up.  However, the ease of making Advertisment games has been greatly reduced.  An example of a company that specialize in these Advert-Games is:
 
-#### **Advert-Game Studio Case Study**
 [Gameify](https://www.gamify.com)   
 <img src="../images/gamify.jpg" alt="Gamify">  
     
-[Branded Mini Games](https://brandedminigames.com/)
+Although my idea for Creative Games is much different than an Advert-Game company it might be a lucrative direction to picvot to. 
 
 
 ### **Task 2: Audience Research**  
