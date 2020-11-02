@@ -55,12 +55,12 @@ Value Proposition:
 https://www.gamasutra.com/blogs/ScottJonSiegel/20170328/294688/Value_Propositions_in_FreetoPlay_Games.php
 
 https://gamingbolt.com/game-pass-is-a-great-value-proposition-for-indie-devs-says-microsoft-exec
-An outlet for indy microgames
-
-Original Games will be a hub for experimental games with social and philosofical context.  The true value of this is building a sense of commuinity for like-minded game developers to exchange ideas and colabourate.  I also hope that this will be a place where people can network and find oppotunites in the game development community. 
-It will also act as a living portfolio of my own work where I can post publically and express my opitions though the art form of games.  
+An outlet for indy microgames   
+The true value of this is building a sense of commuinity for like-minded game developers to exchange ideas and colabourate.  I also hope that this will be a    placewhere people can network and find oppotunites in the game development community.    
 	
 Summary:   
+Original Games will be a hub for experimental games with social and philosofical context.    
+It will also act as a living portfolio of my own work where I can post publically and express my opitions though the art form of games.    
    
 Description:   
    
@@ -79,6 +79,7 @@ Business Plan
 Projections  
 Product Strategy  
 Channel Strategy  
+https://searchitchannel.techtarget.com/definition/channel-strategy   
 Marketing Strategy  
 Customer Experience  
 Technical Requirements  
