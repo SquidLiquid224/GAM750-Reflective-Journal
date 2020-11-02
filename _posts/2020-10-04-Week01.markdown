@@ -19,8 +19,8 @@ My first two competitor case studies on successfull Facebook ad campaigns.  As m
    
 <img src="../images/strike_force_ad.jpg" alt="Strike Force">   
     
-FoxNext Games was my first case study, they put together some really effective Facebook Ad campaigns for their Game Marvel Strike Force. What jumped out to me was the use of Carousel Ads, using this style of side scolling ad you can showcase multiple titles in one ad, it also makes the ad more interactive for the user.  According to the success story artical after implementing a carousel ad they saw a 6% higher return on ad spend, 61% more app installs, 14% more revenue and a 33% lower average cost per install.  With my project being a series of smaller games titles this ad campaign might work well. 
-   
+FoxNext Games was my first case study, they put together some really effective Facebook Ad campaigns for their Game Marvel Strike Force. What jumped out to me was the use of Carousel Ads, using this style of side scolling ad you can showcase multiple titles in one ad, it also makes the ad more interactive for the user.  According to the success story artical after implementing a carousel ad they saw a 6% higher return on ad spend, 61% more app installs, 14% more revenue and a 33% lower average cost per install.  With my project being a series of smaller games titles this ad campaign might work well.   
+    
 [Kakao Games](https://www.facebook.com/business/success/kakao-games-wisebirds)
 Playable ads   
 <img src="../images/kakaoGames.png" alt="Kakao Games">
