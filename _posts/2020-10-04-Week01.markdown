@@ -8,11 +8,10 @@ date: Sept 31, 2020
 
 Preliminary Work  
 
-The preliminary research activities are designed to inform you approach to structuring and creating content for the dissemination plan. There is a good chance that you have already carried out tasks that can be included as part of the preliminary research. All preliminary research should be included in an appendix at the end of the plan and where appropriate referenced in the plan.  
-
-I began my reseach for the dissemication plan through Facebook and testing the marketing aspects of that platform. I found that creating ad campaigns are quick and easy to create at a resonable price.  After my initial testing on a Game Video Creator account I built a company page called Original Games and began an test ad campaign to find my audience.  
- 
+I began my reseach for the dissemication plan through Facebook and testing the marketing aspects of that platform. I found that creating ad campaigns are quick and easy to create at a resonable price.  After my initial testing on a Game Video Creator account I built a company page called Original Games and began an test ad campaign to find my audience.  I also found some very useful resources on the Business learn area of Facebook:
 https://www.facebook.com/business/learn
+
+
 
 https://www.gamify.com/gamification-blog/15-reasons-to-use-games-in-your-marketing-strategy
 https://www.gamify.com/what-is-gamification
@@ -83,3 +82,5 @@ Post Launch
     Future Development  
     Continued User Engagement  
 
+
+Appendix
