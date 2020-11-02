@@ -29,9 +29,12 @@ As I reseached Playable Ads further I discovered a business model that relativly
 [Branded Mini Games](https://brandedminigames.com/)
 
 
-Task 2: Audience Research  
-
-If you have not done so already, carry out audience research to test assumptions about the target audience and their attitudes, knowledge, interests, preferences, or behaviours relevant to your FMP. Be sure to reference your findings within the dissemination plan.  
+### **Task 2: Audience Research**  
+   
+I began my audience reseach by implementing a Facebook Ad campaign for my Original Games page's first post.  it was a demo called Duck Runner my first prototype of this learning module.  below are some statistics that I captured from that initial ad that took place over the course of 5 days.  
+  
+<img src="../images/audience_stats.jpg" alt="Audience Stats">  
+   
 
 Dissemination Report:  
 
