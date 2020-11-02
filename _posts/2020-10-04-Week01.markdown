@@ -17,14 +17,17 @@ My first two competitor case studies on successfull Facebook ad campaigns.  As m
 #### **Facebook Ads Case Studies**  
 [FoxNext Games](https://www.facebook.com/business/success/foxnext-games)
 Carosel ads   
+<img src="../images/strike_force_ad.jpg" alt="Strike Force">
    
 [Kakao Games](https://www.facebook.com/business/success/kakao-games-wisebirds)
 Playable ads   
+<img src="../images/kakaoGames.png" alt="Kakao Games">
    
 As I reseached Playable Ads further I discovered a business model that relativly new and mirrored some of the characteristics of my own products.  It was game based entirly around advertisments, althought the concept of making a game an advertisment is nothing new, for instance the [Cool Spot game](https://en.wikipedia.org/wiki/Cool_Spot) that was relased in 1993 by Virgin Game USA was just a big ad for Z-up.  However, the ease of making Advertisment games has been greatly reduced.  Two examples of companies that specialize in these Advert Games are:
 
-#### **Advert-Game Case Studies**
-[Gameify](https://www.gamify.com)
+#### **Advert-Game Studio Case Study**
+[Gameify](https://www.gamify.com)   
+<img src="../images/gamify.jpg" alt="Gamify">
     
 [Branded Mini Games](https://brandedminigames.com/)
 
