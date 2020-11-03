@@ -60,9 +60,14 @@ https://gamingbolt.com/game-pass-is-a-great-value-proposition-for-indie-devs-say
 https://neuralimpact.ca/valueproposition/
 
 Summary:   
+   
 With independance and the freedom to develop creative content Original Games focuses on innovation and experimental gameplay.  Our goal is to explore the medium of games and produce unique and throught provoking experiences.   
    
 Features:   
+    
+Libarary of indie games linked to itch.io sites for purchase   
+Detailed Writings on each game-developed   
+community forum for networking ect.   
     
 Technical information:  
      
@@ -71,12 +76,9 @@ Audience:
 	
 #### **Got-To-Market (GTM) Strategy**  
    
-https://software.intel.com/content/www/us/en/develop/articles/get-ready-get-noticed-get-big-a-practical-guide-to-marketing-your-indie-game.html?sf180884545=1   
    
 Business Plan   
 
-https://strebecklaw.com/indie-game-studio-business-plan/
-https://www.gamesindustry.biz/articles/2019-07-08-writing-a-business-plan-advice-for-indie-game-developers   
     
 	
 Projections  
@@ -114,7 +116,13 @@ Evalualtion
 
 Timeline and Execution  
 
-   
+
+https://software.intel.com/content/www/us/en/develop/articles/get-ready-get-noticed-get-big-a-practical-guide-to-marketing-your-indie-game.html?sf180884545=1   
+
+https://strebecklaw.com/indie-game-studio-business-plan/
+
+
+https://www.gamesindustry.biz/articles/2019-07-08-writing-a-business-plan-advice-for-indie-game-developers   
 
 #### **Launch**  
    
