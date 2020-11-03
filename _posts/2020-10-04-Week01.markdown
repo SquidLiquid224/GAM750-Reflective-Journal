@@ -73,17 +73,45 @@ Audience:
    
 https://software.intel.com/content/www/us/en/develop/articles/get-ready-get-noticed-get-big-a-practical-guide-to-marketing-your-indie-game.html?sf180884545=1   
    
-Business Plan  
+Business Plan   
+
 https://strebecklaw.com/indie-game-studio-business-plan/
-https://www.gamesindustry.biz/articles/2019-07-08-writing-a-business-plan-advice-for-indie-game-developers
+https://www.gamesindustry.biz/articles/2019-07-08-writing-a-business-plan-advice-for-indie-game-developers   
+    
+	
 Projections  
+  
+Customers  
+  
+Revenues   
+   
+Costs    
+   
+Financials   
+    
+
+
+
 Product Strategy  
-Channel Strategy  
-https://searchitchannel.techtarget.com/definition/channel-strategy   
-Marketing Strategy  
-Customer Experience  
-Technical Requirements  
-Evaluation  
+
+    
+	
+Marketing Strategy   
+
+
+
+Customer Experience   
+
+
+
+Technical Requirements   
+
+
+
+Evalualtion 
+
+
+
 Timeline and Execution  
 
    
