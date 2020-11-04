@@ -91,14 +91,14 @@ https://www.gamasutra.com/view/feature/131662/writing_a_business_plan_for_.php
 Projections    
     
 Customers    
-<img src="../images/projection01.png" alt="Customer projection01">   
-<img src="../images/projection02.png" alt="Customer projection02">    
+<img src="../images/projections-1.jpg" alt="Customer projection01">   
+<img src="../images/projections-2.jpg" alt="Customer projection02">    
 Revenues    
-<img src="../images/projection03.png" alt="Revenue projection.">   
+<img src="../images/projections-3.jpg" alt="Revenue projection.">   
 Costs    
-<img src="../images/projection04.png" alt="Costs projection">  
+<img src="../images/projections-4.jpg" alt="Costs projection">  
 Financials   
-<img src="../images/projection05.png" alt="Financial projection">    
+<img src="../images/projections-5.jpg" alt="Financial projection">    
     
 Product Strategy   
    
