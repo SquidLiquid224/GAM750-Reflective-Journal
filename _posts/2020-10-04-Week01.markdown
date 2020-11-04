@@ -51,8 +51,10 @@ Secondly, my audience is 70.7% Men and 29.3% Women with a peak age range from 25
 Many assumptions can be made about this demographic, the Gen-y or Millenials:   
 <img src="../images/millen1.jpg" alt="Millenials01">   
 <img src="../images/millen2.jpg" alt="Millenials01">   
-
-
+   
+A useful feature of Facebook Ads marketing is the ability to make deatailed taget audiences.  Below is a screenshot of the functiality. Using this fuctinality along side the reseach I have conducted with a broad audiece should help me fine tune my marketing campaigns to a target audience more likely to purchase. 
+    
+<img src="../images/Detailed_audience_targeting.jpg" alt="tageting"> 
 
     
 #### **Product Overview**  
