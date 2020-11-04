@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game05 - CRUSH THE DUCK (Thurmp Edition) the political game  
+title: Game05 - CRUSH THE DUCK the political game  
 date: Sept 25, 2020
 --- 
 
