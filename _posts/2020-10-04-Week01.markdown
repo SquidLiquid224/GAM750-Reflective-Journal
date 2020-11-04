@@ -55,19 +55,18 @@ Original Games is specifically designed and optimized for people ages 18 to 45 w
 
 Summary:   
    
-With independance and the freedom to develop creative content Original Games focuses on innovation and experimental gameplay.  Our goal is to explore the medium of games and produce unique and throught provoking experiences.   
+With independance and the freedom to develop creative content Original Games focuses on innovation and experimental gameplay.  With titles that speak to the gaming community in a social and philisophical context. 
    
 Features:   
     
-Libarary of indie games linked to itch.io sites for purchase   
-Detailed Writings on each game-developed   
-community forum for networking ect.   
+Libarary of indie games linked to itch.io sites for purchase.   
+Detailed editorials on each game-developed.   
+A community forum for networking in the game community.   
     
 Technical information:  
     
-Unity 3D technology    
-WebGL, mobile android and iOS
-AWS web hosting    
+Utilizing Unity 3D technology allows Original games to publish crossplatform to WebGL, mobile android and iOS.
+Web hosting for OriginalGames.org is hosted on Amazon Wed Services utillizing the Elastic Compute Cloud for dynamic scalability.     
       
 	
 #### **Got-To-Market (GTM) Strategy**  
@@ -82,7 +81,7 @@ Original Gmaes was established vith the expectation of rapid expansion in the in
 Bussiness Description:   
     
 Original Games was formed on 10/06/2020 by Jason Teeuewissen.    
-An Animation Honors graduate with a Masters in Creative Application Development (in-progress) Also a Freelance game design studio owner and Professional Animation Technologist and Part-time Instructor.    
+An Sheirdan College Animation Honors graduate with a Masters in Creative Application Development from Falmouth University (in-progress) Also a Freelance game design studio owner and professional Animation Technologist and Part-time Instructor.    
 Original games has published two independent game titles within the short time span of a month. Both title where very well received by the gaming community.     Original Games is currently in the development on multiple new and exciting titles, scheduled for release in later this month and January 2021. These titles      neamed,Duck Runner,Crypto Duck, Pandemic Duck and an unamed experimental community driven collaboration.    
     
 Business Mission:    
