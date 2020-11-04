@@ -66,7 +66,8 @@ A community forum for networking in the game community.
 Technical information:  
     
 Utilizing Unity 3D technology allows Original games to publish crossplatform to WebGL, mobile android and iOS.
-Web hosting for OriginalGames.org is hosted on Amazon Wed Services utillizing the Elastic Compute Cloud for dynamic scalability.     
+Web hosting for OriginalGames.org is hosted on Amazon Wed Services utillizing the Elastic Compute Cloud for dynamic scalability.   
+All game transactions will be completed through the website itch.io.  Reasons for this included the rich indie game community that it currently hosts and the low amount of royalties that itch.io takes from transactions.        
       
 	
 #### **Got-To-Market (GTM) Strategy**  
