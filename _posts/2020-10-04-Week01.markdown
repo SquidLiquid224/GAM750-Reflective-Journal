@@ -84,7 +84,7 @@ Original Gmaes (referred to from he reon in as the "Company") ,was established v
     
 Bussiness Description:   
     
-The Company ,vas formed on 10/04/2020 by Jason Teeuewissen.    
+Original Games was formed on 10/06/2020 by Jason Teeuewissen.    
 An Animation Honors graduate with a Masters in Creative Application Development (in-progress) Also a Freelance game design studio owner and Professional AnimationTechnologist and Part-time Instructor.    
 Original games has published two independent game titles within the short time span of a month. Both title where very well received by the gaming community.     Original Games is currently in the development on multiple new and exciting titles, scheduled for release in later this month and January 2021. These titles      neamed,Duck Runner,Crypto Duck, Pandemic Duck and an unamed experimental community driven collaboration.    
     
@@ -173,18 +173,25 @@ Once tested Android and iOS builds will be published to appropiate web stores
 Beta Launch  
    
 Press release  
+   
 Social media  
+   
 Analytics  
+   
 Feedback Channels  
+   
 Bug Tracking  
    
    
-
+   
 #### **Post Launch**  
     
 Maintenance  
+   
 Future Development  
+   
 Continued User Engagement    
+   
 
 
 Appendix   
