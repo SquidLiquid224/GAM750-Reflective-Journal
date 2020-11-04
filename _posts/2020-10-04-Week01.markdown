@@ -49,7 +49,8 @@ The primary audience needs, attitudes, knowledge, interests, preferences, and be
 First, 79.2% of my audience veiwed my Ad on Facebook Mobile App.  This is a clean indication that my games need to be mobile ready and easily accessable through  the Facebook Mobile App. Another 15.6% are using the Mobile Web Based app. In total 94.8% of my audience reach is mobile based.  
 Secondly, my audience is 70.7% Men and 29.3% Women with a peak age range from 25-44 years.  
 Many assumptions can be made about this demographic, the Gen-y or Millenials:   
-
+<img src="../images/millen1.jpg" alt="Millenials01">   
+<img src="../images/millen2.jpg" alt="Millenials01">   
 
 
 
