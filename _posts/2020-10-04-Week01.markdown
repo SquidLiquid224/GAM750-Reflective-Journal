@@ -45,12 +45,13 @@ I began my audience reseach by implementing a Facebook Ad campaign for my Origin
 <img src="../images/audience_stats.jpg" alt="Audience Stats">  
 
 
+The primary audience needs, attitudes, knowledge, interests, preferences, and behaviours have been a great part of this research. From these stats alone I have found many insites that will govern my development.    
+First, 79.2% of my audience veiwed my Ad on Facebook Mobile App.  This is a clean indication that my games need to be mobile ready and easily accessable through  the Facebook Mobile App. Another 15.6% are using the Mobile Web Based app. In total 94.8% of my audience reach is mobile based.  
+Secondly, my audience is 70.7% Men and 29.3% Women with a peak age range from 25-44 years.  
+Many assumptions can be made about this demographic, the Gen-y or Millenials:   
 
 
 
-
-
-There is a clear understanding of the audience and their needs, including attitudes, knowledge, interests, preferences, and behaviours.
 
     
 #### **Product Overview**  
@@ -213,3 +214,6 @@ https://www.construct.net/en/forum/game-development/distribution-and-publishing-
 https://www.gamasutra.com/blogs/ScottJonSiegel/20170328/294688/Value_Propositions_in_FreetoPlay_Games.php    
 https://gamingbolt.com/game-pass-is-a-great-value-proposition-for-indie-devs-says-microsoft-exec    
 https://neuralimpact.ca/valueproposition/    
+https://www.pewresearch.org/fact-tank/2017/09/11/younger-men-play-video-games-but-so-do-a-diverse-group-of-other-americans/  
+https://www.nielsen.com/us/en/insights/article/2019/game-on-video-games-are-a-staple-among-millennials-media-diets/#:~:text=According%20to%20our%20latest%20Millennials,play%20video%20games%20every%20month.&text=They%20also%20like%20watching%20others%20play.
+https://www.nielsen.com/us/en/insights/report/2019/millennials-on-millennials-gaming-media-consumption/
