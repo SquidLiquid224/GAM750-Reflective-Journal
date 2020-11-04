@@ -98,7 +98,12 @@ Our mission is to explore the medium of games and produce unique and thought pro
 **New Products:**    
     
 After a period of thorough trial and error, the Company is prepared to introduce the following game titles to the market:    
-Duck Runner,Crypto Duck, Pandemic Duck and an unamed experimental community driven collaboration.     
+**Duck Runner: an endless runner game**   
+**Crypto Duck: an incremental clicker game**   
+**Pandemic Duck: a retro survival game**   
+**Blank Duck: an experimental community driven re-skin collaboration.**   
+    
+As well as a advertisment game used for marketing   
     
 Our games began through research and game development during game jams and masters projects. Our journey has lead to many rewarding collaborations in the game    arts. With the current state of the world, vhere isolation and lockdowns are frequent. People need enjoyment and an outlet of citizen journalism.    
    
