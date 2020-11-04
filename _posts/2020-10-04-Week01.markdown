@@ -57,82 +57,82 @@ Many assumptions can be made about this demographic, the Gen-y or Millenials:
     
 #### **Product Overview**  
 
-Product Title: Original Games  
+**Product Title: Original Games**  
   
 Value Proposition:  
 Original Games is specifically designed and optimized for people ages 18 to 45 who are experiencing bordom, high stress and lack of interaction. Our games, advertisements and networking platform is leading thought provoking entertainment that helps decreased stress levels while providing networking opportuites for like-minded indie game developers. Unlike competitors, our products/services offer an original social and philisophical commentary you won't forget. 
 
-Summary:   
+**Summary:**   
    
 With independance and the freedom to develop creative content Original Games focuses on innovation and experimental gameplay.  With titles that speak to the gaming community in a social and philisophical context. 
    
-Features:   
+**Features:**   
     
 Libarary of indie games linked to itch.io sites for purchase.   
 Detailed editorials on each game-developed.   
 A community forum for networking in the game community.   
     
-Technical information:  
+**Technical information:**  
     
-Utilizing Unity 3D technology allows Original games to publish crossplatform to WebGL, mobile android and iOS.
+Utilizing Unity 3D technology allows Original games to publish crossplatform to WebGL, mobile android and iOS.   
 Web hosting for OriginalGames.org is hosted on Amazon Wed Services utillizing the Elastic Compute Cloud for dynamic scalability.   
 All game transactions will be completed through the website itch.io.  Reasons for this included the rich indie game community that it currently hosts and the low amount of royalties that itch.io takes from transactions.        
       
 	
 #### **Got-To-Market (GTM) Strategy**  
    
-Business Plan:   
+**Business Plan:**   
     
 Original Gmaes was established vith the expectation of rapid expansion in the independent game development industry. The Company solicits financial backing in    order to be able to introduce its new products (described below).    
     
-Bussiness Description:   
+**Bussiness Description:**   
     
 Original Games was formed on 10/06/2020 by Jason Teeuewissen.    
 An Sheirdan College Animation Honors graduate with a Masters in Creative Application Development from Falmouth University (in-progress) Also a Freelance game design studio owner and professional Animation Technologist and Part-time Instructor.    
 Original games has published two independent game titles within the short time span of a month. Both title where very well received by the gaming community.     Original Games is currently in the development on multiple new and exciting titles, scheduled for release in later this month and January 2021. These titles      neamed,Duck Runner,Crypto Duck, Pandemic Duck and an unamed experimental community driven collaboration.    
     
-Business Mission:    
+**Business Mission:**    
     
 Our mission is to explore the medium of games and produce unique and thought provoking experiences.    
     
-New Products:    
+**New Products:**    
     
 After a period of thorough trial and error, the Company is prepared to introduce the following game titles to the market:    
 Duck Runner,Crypto Duck, Pandemic Duck and an unamed experimental community driven collaboration.     
     
 Our games began through research and game development during game jams and masters projects. Our journey has lead to many rewarding collaborations in the game    arts. With the current state of the world, vhere isolation and lockdowns are frequent. People need enjoyment and an outlet of citizen journalism.    
    
-Funding Request:    
+**Funding Request:**    
    
 The Company requests a total loan of $50,000.00 over the course of 5 years, to be used for the following purposes:    
 To finance part-time digital artists and computer science interns.    
     
 Long-term debt payment is a key feature of the Company' s financial plan. We expect to break even Within a 3 year time period following the introduction of our   product. Financial predictions suggest a minimum 300% percent return on investment by the conclusion of the financing period.    
    
-Business Goals and Objectives:   
+**Business Goals and Objectives:**   
     
-Short-Term Goals:   
+**Short-Term Goals:**   
     
 Original games has short term goal to become strengthen our foo thold in the independent game community by creating a multitude of original works that ofter an   original social and philoso phical commentary you won't forget.   
 
-Long-Term Goals:    
+**Long-Term Goals:**    
     
 Our Long term goals include creating an arts collective of like minded artists and game develo pers ,vho are interested in exploring the limits of the gaming    arts. Having a place of residence fo r this community and being in the financial position to support the artists and develope rs to further this exploration.    
     
-Financial Projections:    
+**Financial Projections:**    
    
     
-Customers    
+**Customers**    
 <img src="../images/projections-1.jpg" alt="Customer projection01">   
-Revenues  
+**Revenues**  
 <img src="../images/projections-2.jpg" alt="Customer projection02">      
 <img src="../images/projections-3.jpg" alt="Revenue projection.">   
 Costs    
 <img src="../images/projections-4.jpg" alt="Costs projection">  
-Financials   
+**Financials**   
 <img src="../images/projections-5.jpg" alt="Financial projection">    
     
-Product Strategy:   
+**Product Strategy:**   
     
 mulitiple and consistant topical and reactive games   
 	
@@ -143,7 +143,7 @@ mulitiple and consistant topical and reactive games
 	
 	
 	
-Marketing Strategy:   
+**Marketing Strategy:**   
    
 Primarily Facebook and Instgram marketing   
 
@@ -156,15 +156,15 @@ thirdary influencers and streamers
 	
 	
 	
-Customer Experience:    
+**Customer Experience:**    
     
 short and sweet satisfacton unstresful and casual mobile    
     
-Technical Requirements:    
+**Technical Requirements:**    
     
 desktop computer, tablet or mobile device    
     
-Timeline and Execution:    
+**Timeline and Execution:**    
     
 October 6th 2020 onward    
      
@@ -174,27 +174,27 @@ Once tested Android and iOS builds will be published to appropiate web stores
     
 #### **Launch**  
    
-Beta Launch  
+**Beta Launch**  
    
-Press release  
+**Press release**  
    
-Social media  
+**Social media**  
    
-Analytics  
+**Analytics**  
    
-Feedback Channels  
+**Feedback Channels**  
    
-Bug Tracking  
+**Bug Tracking**  
    
    
    
 #### **Post Launch**  
     
-Maintenance  
+**Maintenance**  
    
-Future Development  
+**Future Development**  
    
-Continued User Engagement    
+**Continued User Engagement**    
    
 
 
