@@ -70,52 +70,60 @@ Detailed Writings on each game-developed
 community forum for networking ect.   
     
 Technical information:  
-     
-Audience:   
-     
+    
+Unity 3D technology    
+WebGL, mobile android and iOS
+AWS web hosting    
+      
+Audience:    
+
+primarally ages 18 - 45 males    
 	
 #### **Got-To-Market (GTM) Strategy**  
    
    
 Business Plan   
-
-    
+   
+Executive Summary   
+https://strebecklaw.com/indie-game-studio-business-plan/    
+https://www.gamasutra.com/view/feature/131662/writing_a_business_plan_for_.php   
 	
-Projections  
-  
-Customers  
-  
-Revenues   
-   
+Projections    
+    
+Customers    
+<img src="../images/projection01.png" alt="Customer projection01">   
+<img src="../images/projection02.png" alt="Customer projection02">    
+Revenues    
+<img src="../images/projection03.png" alt="Revenue projection.">   
 Costs    
-   
+<img src="../images/projection04.png" alt="Costs projection">  
 Financials   
+<img src="../images/projection05.png" alt="Financial projection">    
     
-
-
-
-Product Strategy  
-
-    
+Product Strategy   
+   
+mulitiple and consistant topical and reactive games   
 	
 Marketing Strategy   
-
-
-
+   
+Primarily Facebook and Instgram marketing   
+Secondary Twitter, Reddit pinterest posts    
+thirdary influencers and streamers    
+    
 Customer Experience   
+    
+short and sweet satisfacton unstresful and casual mobile    
+    
+Technical Requirements    
+    
+desktop computer, tablet or mobile device    
+    
+Timeline and Execution    
+    
+October 6th 2020 onward 
 
-
-
-Technical Requirements   
-
-
-
-Evalualtion 
-
-
-
-Timeline and Execution  
-
+Games will be advertized on social media and published on itch.io for testing 
+Once tested Android and iOS builds will be published to appropiate web stores
 
 https://software.intel.com/content/www/us/en/develop/articles/get-ready-get-noticed-get-big-a-practical-guide-to-marketing-your-indie-game.html?sf180884545=1   
 
@@ -131,6 +139,7 @@ https://www.construct.net/en/forum/game-development/distribution-and-publishing-
 #### **Launch**  
    
 Beta Launch  
+   
 Press release  
 Social media  
 Analytics  
