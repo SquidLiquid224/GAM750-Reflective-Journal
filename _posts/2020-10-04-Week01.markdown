@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Dissemination Plan - Original Games  
+title: Dissemination Report - Original Games  
 date: Sept 31, 2020
 --- 
 
 <img src="../images/Banner.jpg" alt="Creative Games Logo">
-
-### **Dissemination Report** 
 
 #### **Preliminary Work**  
 
