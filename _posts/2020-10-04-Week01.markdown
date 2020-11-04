@@ -6,6 +6,8 @@ date: Sept 31, 2020
 
 <img src="../images/Banner.jpg" alt="Creative Games Logo">
 
+### **Dissemination Report** 
+
 ### **Preliminary Work**  
 
 I began my reseach for the dissemication plan through Facebook and testing the marketing aspects of that platform. I found that creating ad campaigns are quick and easy to create at a resonable price.  After my initial testing on a Game Video Creator account I built a company page called Original Games and began an test ad campaign to find my audience.  I also found some very useful resources on the Business At [Facebook Learn](https://www.facebook.com/business/learn).  By going through this resourse I found some really good take-aways and was inspired to set up a Facebook Organization Page.  I needed to establish a presence as soon as possible and conduct more ad reseach so when my MVP is complete my ads will be effective and taget the right audience. i started the page [Original Games](https://www.facebook.com/Original-Games-104498631430111).  With this created I began my research on other competitors that are also leveraging the Facebook advertisement platform. 
@@ -41,10 +43,15 @@ Although my idea for Creative Games is much different than an Advert-Game compan
 I began my audience reseach by implementing a Facebook Ad campaign for my Original Games page's first post.  it was a demo called Duck Runner my first prototype of this learning module.  below are some statistics that I captured from that initial ad that took place over the course of 5 days.  
   
 <img src="../images/audience_stats.jpg" alt="Audience Stats">  
-   
 
-### **Dissemination Report** 
-    
+
+
+
+
+
+
+There is a clear understanding of the audience and their needs, including attitudes, knowledge, interests, preferences, and behaviours.
+
     
 #### **Product Overview**  
 
@@ -72,9 +79,6 @@ All game transactions will be completed through the website itch.io.  Reasons fo
 	
 #### **Got-To-Market (GTM) Strategy**  
    
-   
-
-   
 Business Plan:   
     
 Original Gmaes was established vith the expectation of rapid expansion in the independent game development industry. The Company solicits financial backing in    order to be able to introduce its new products (described below).    
@@ -97,6 +101,7 @@ Duck Runner,Crypto Duck, Pandemic Duck and an unamed experimental community driv
 Our games began through research and game development during game jams and masters projects. Our journey has lead to many rewarding collaborations in the game    arts. With the current state of the world, vhere isolation and lockdowns are frequent. People need enjoyment and an outlet of citizen journalism.    
    
 Funding Request:    
+   
 The Company requests a total loan of $50,000.00 over the course of 5 years, to be used for the following purposes:    
 To finance part-time digital artists and computer science interns.    
     
@@ -117,8 +122,8 @@ Financial Projections:
     
 Customers    
 <img src="../images/projections-1.jpg" alt="Customer projection01">   
-<img src="../images/projections-2.jpg" alt="Customer projection02">    
-Revenues    
+Revenues  
+<img src="../images/projections-2.jpg" alt="Customer projection02">      
 <img src="../images/projections-3.jpg" alt="Revenue projection.">   
 Costs    
 <img src="../images/projections-4.jpg" alt="Costs projection">  
